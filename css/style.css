@@ -1,0 +1,124 @@
+
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+.mi-nav{
+    list-style: none;
+    background-color: #251D3A ;
+    height: 10rem;
+    
+}
+.mi-nav ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    text-align: center;
+    vertical-align:top;
+    float: center;
+}
+
+.mi-nav li{
+    color: #E04D01;
+    display: inline;
+    float: left;
+    font-weight: bold;
+    justify-content: space-evenly;
+    text-decoration: none;
+    height: inherit;
+}
+
+.mi-nav li a {
+    float: left;
+    text-align: center;
+    padding: 0.75rem;
+    color: #E04D01;
+    text-decoration: none;
+    font-size: 2rem;
+  }
+
+.logo-wrapper img {
+    max-height: 9rem;
+    float: left;
+}
+
+.msj-principal{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.msj-servicios{
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.msj-servicios ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    text-align: center;
+    vertical-align:top;
+} 
+.msj-servicios ul li{
+    padding: 10px;
+    margin: 10px;
+    outline: 1px solid #251D3A;
+    border-radius: 1%;
+    list-style-type: none;
+    text-align: center;
+    vertical-align:top;
+} 
+
+.mi-foot{
+    list-style: none;
+    background-color: #251D3A ;
+    height: 10rem;
+    float: center;
+}
+
+.mi-foot img {
+    max-height: 4rem;
+}
+.mi-foot ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    text-align: center;
+    vertical-align:top;
+    float: center;
+}
+.mi-foot li{
+    color: #E04D01;
+    display: inline;
+    float: left;
+    font-weight: bold;
+    justify-content: space-evenly;
+    text-decoration: none;
+    height: inherit;
+    text-align: center;
+}
+
+.blog-post{
+    width: 25%;
+    padding: 10px;
+    text-align: center;
+    outline: 1px solid #251D3A;
+    border-radius: 1%;
+    margin-bottom: 1%;
+}
+
+.blog-post img{
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+.blog-post p{
+    width: 75%;
+}
+.blog-post-space{
+    text-align: center;
+}
