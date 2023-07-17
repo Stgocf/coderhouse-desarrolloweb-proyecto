@@ -1,57 +1,60 @@
-
-*{
-    margin: auto;
-    padding: auto;
-    box-sizing: border-box;
+body{
+    padding: 0%;
+    margin: 0%;
 }
-.mi-nav{
-    list-style: none;
+header{
     background-color: #251D3A ;
-    height: 10rem;
-    
+}
+
+.mi-nav{
+    display: grid;
+    grid-template-areas: "logo nav-menu";
+    grid-template-columns: 1fr 3fr;  
+    align-items: center;
 }
 .mi-nav ul{
-    padding: 0px;
-    margin: 0px;
     list-style-type: none;
-    text-align: center;
-    vertical-align:top;
-    float: center;
 }
 
 .mi-nav li{
     color: #E04D01;
-    display: inline;
-    float: left;
     font-weight: bold;
     justify-content: space-evenly;
     text-decoration: none;
-    height: inherit;
 }
 
 .mi-nav li a {
-    float: left;
-    text-align: center;
     padding: 0.75rem;
     color: #E04D01;
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 28px;
+    height: 8rem;
   }
 
 .logo-wrapper img {
-    max-height: 9rem;
-    float: left;
+    max-height: 8rem;
+    align-self: center;
+}
+
+.nav-menu-ul{
+    display: grid;
+    grid-template-areas: 
+        "menu-nosotros menu-servicios menu-blog menu-contacto";
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .msj-principal{
     margin: auto;
-    width: 50%;
+    width: 90%;
     padding: 10px;
     text-align: center;
+    display: grid;
+    grid-template-areas: "msj-principal1 msj-principal2";
+    grid-template-columns: 1fr 1fr ;
 }
 
 .msj-servicios{
-    width: 50%;
+    width: 90%;
     padding: 10px;
     text-align: center;
 }
@@ -76,11 +79,13 @@
     list-style: none;
     background-color: #251D3A ;
     height: 10rem;
-    float: center;
+    display: grid;
+    grid-template-areas: "foot-dir foot-rrss";
+    grid-template-columns: 1fr 1fr;
 }
 
 .mi-foot img {
-    max-height: 4rem;
+    max-height: 3rem;
 }
 .mi-foot ul{
     padding: 0px;
@@ -88,37 +93,197 @@
     list-style-type: none;
     text-align: center;
     vertical-align:top;
-    float: center;
+    align-items: center;
 }
 .mi-foot li{
-    color: #E04D01;
     display: inline;
-    float: left;
     font-weight: bold;
-    justify-content: space-evenly;
+    justify-content: center;
     text-decoration: none;
     height: inherit;
     text-align: center;
 }
+.mi-foot p{
+    color: #E04D01;
+    justify-content: center;
+}
+
 
 .blog-post{
-    width: 25%;
+    margin:10px;
     padding: 10px;
-    text-align: center;
     outline: 1px solid #251D3A;
     border-radius: 1%;
     margin-bottom: 1%;
 }
 
 .blog-post img{
-    border-radius: 50%;
-    width: 50%;
-    height: 50%;
+    border-radius: 25%;
+    width: 75%;
 }
 
 .blog-post p{
     width: 75%;
-}
-.blog-post-space{
     text-align: center;
+}
+
+.blog-post-space{
+    width: 90%;
+    text-align: center;
+}
+
+#grilla-blog{
+    display:grid;
+    grid-template-areas:"bp1 bp2 bp3 bp4";
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#grilla-servicios{
+    display:grid;
+    grid-template-areas:
+    "desa ds ana cloud rpa ia";
+    grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr;
+}
+
+#desa{
+    grid-area: desa;
+}
+#ds{
+    grid-area: ds;
+}
+#ana{
+    grid-area: ana;
+}
+#cloud{
+    grid-area: cloud;
+}
+#rpa{
+    grid-area: rpa;
+}
+#ia{
+    grid-area: ia;
+}
+#bp1{
+    grid-area: bp1;
+}
+#bp2{
+    grid-area: bp2;
+}
+#bp3{
+    grid-area: bp3;
+}
+#bp4{
+    grid-area: bp4;
+}
+.msj-principal1{
+    grid-area: principal1;
+}
+.msj-principal2{
+    grid-area: principal2;
+}
+.logo-wrapper{
+    grid-area: logo
+}
+.nav-menu{
+    grid-area: nav-menu;
+}
+#menu-nosotros{
+    grid-area: menu-nosotros;
+}
+#menu-servicios{
+    grid-area: menu-servicios;
+}
+#menu-blog{
+    grid-area: menu-blog;
+}
+#menu-contacto{
+    grid-area: menu-contacto;
+}
+
+
+
+/* @media (max-width:XXXpx): lo vamos a usar siempre que pasemos de desktop a mobile en modo responsive*/
+/* min width para hacerlo mobile first*/
+
+@media (max-width:1024px){
+
+    #grilla-servicios{
+        grid-template-areas:
+        "desa ds ana"
+        "cloud rpa ia";
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    #grilla-blog{
+
+        grid-template-areas: 
+        "bp1 bp2"
+        "bp3 bp4";
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    }
+
+
+}
+
+@media (max-width:768px){
+
+    .nav-menu-ul{
+        grid-template-areas: 
+        "menu-nosotros menu-servicios"
+        "menu-blog menu-contacto";
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+    #grilla-servicios{
+        display:grid;
+        grid-template-areas:
+        "desa ds"
+        "ana cloud"
+        "rpa ia";
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+
+@media (max-width:550px){
+    .mi-nav{
+        grid-template-areas: 
+        "logo" "nav-menu";
+        grid-template-rows: 1fr 1fr; 
+    }
+}
+
+@media (max-width:320px){
+    .nav-menu-ul{
+        grid-template-areas: 
+        "menu-nosotros" "menu-servicios" "menu-blog" "menu-contacto";
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+    }
+
+    #grilla-servicios{
+
+        display: flex;
+        flex-direction: column;
+    }
+
+    .msj-principal{
+        margin: auto;
+        width: 90%;
+        padding: 10px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    #grilla-blog{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mi-foot{
+        display: flex;
+        flex-direction: column;
+    }
 }

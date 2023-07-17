@@ -8,68 +8,72 @@
     <title>TECHVADIS</title>
 </head>
 <body>
-    <header>
+    <header id="header">
         <div class="mi-nav" >
             <div class="logo-wrapper">
                 <a href="index.html">
                     <img src="./assets/logo.png" alt="logo">
                 </a>
             </div>
-            <nav >
-                <ul>
-                    <li><a href="./pages/nosotros.html">Nosotros</a></li>
-                    <li><a href="./pages/servicios.html">Servicios</a></li>
-                    <li><a href="./pages/blog.html">Blog</a></li>
-                    <li><a href="./pages/contacto.html">Contacto</a></li>
+            <nav class="nav-menu">
+                <ul class="nav-menu-ul">
+                    <li id="menu-nosotros"><a href="./pages/nosotros.html">Nosotros</a></li>
+                    <li id="menu-servicios"><a href="./pages/servicios.html">Servicios</a></li>
+                    <li id="menu-blog"><a href="./pages/blog.html">Blog</a></li>
+                    <li id="menu-contacto"><a href="./pages/contacto.html">Contacto</a></li>
                 </ul>
             </nav>
-        </div>
-        
+        </div> 
     </header>
     <main>
         <div class="msj-principal">
-            <h2>Descubre y utiliza el valor de tu negocio apalancandote en la tecnología</h2>
-
-            <h2>test borrar</h2>
-            <p>¿Tienes algun proyecto en mente y necesitas ayuda?</p>
-            <button>Cuentanos de tu proyecto</button>
+            <h2 id="msj-principal1">Descubre y utiliza el valor de tu negocio apalancandote en la tecnología</h2>
+            <div id="msj-principal2">
+                <p>¿Tienes algun proyecto en mente y necesitas ayuda?</p>
+                <button>Cuentanos de tu proyecto</button>
+            </div>
         </div>
-        <div>AQUI SEPARADOR LINEA -----------------------------------------------------</div>
         <div class="msj-servicios">
             <h2>Servicios</h2>
-            <ul >
-                <li><a href="">Desarrollo de Software</a></li>
-                <li><a href="">Ciencias de Datos</a></li>
-                <li><a href="">Analítica Avanzada</a></li>
-                <li><a href="">Cloud</a></li>
-                <li><a href="">RPA</a></li>
-                <li><a href="">Inteligencia Artificial</a></li>
+            <ul id="grilla-servicios" >
+                <li id="desa"><a href="">Desarrollo de Software</a></li>
+                <li id="ds"><a href="">Ciencias de Datos</a></li>
+                <li id="ana"><a href="">Analítica Avanzada</a></li>
+                <li id="cloud"><a href="">Cloud</a></li>
+                <li id="rpa"><a href="">RPA</a></li>
+                <li id="ia"><a href="">Inteligencia Artificial</a></li>
             </ul>
         </div>
-        <div>AQUI SEPARADOR LINEA -----------------------------------------------------</div>
         <div class="blog-post-space">
             <h2>Novedades</h2>
-            <div class="blog-post">
-                <h4>BlogPost Title</h4>
-                <img src="./assets/blog.jpeg" alt="">
-                <p class="blog-preview">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-            </div>
-            <div class="blog-post">
-                <h4>BlogPost Title</h4>
-                <img src="./assets/blog.jpeg" alt="">
-                <p class="blog-preview">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-            </div>
-            <div class="blog-post">
-                <h4>BlogPost Title</h4>
-                <img src="./assets/blog.jpeg" alt="">
-                <p class="blog-preview">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+            <div id="grilla-blog">
+                <div id="bp1" class="blog-post">
+                    <h4>BlogPost Title</h4>
+                    <img src="./assets/blog.jpeg" alt="">
+                    <p class="blog-preview">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+                </div>
+                <div id="bp2" class="blog-post">
+                    <h4>BlogPost Title</h4>
+                    <img src="./assets/blog.jpeg" alt="">
+                    <p class="blog-preview">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>
+                </div>
+                <div id="bp3" class="blog-post">
+                    <h4>BlogPost Title</h4>
+                    <img src="./assets/blog.jpeg" alt="">
+                    <p class="blog-preview">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>
+                </div>
+                <div id="bp4" class="blog-post">
+                    <h4>BlogPost Title</h4>
+                    <img src="./assets/blog.jpeg" alt="">
+                    <p class="blog-preview">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>
+                </div>
             </div>
         </div>
     </main>
     <footer>
         <div class="mi-foot">
-            <ul>
-                <li>direccion falsa, numero 1234, Santiago de Chile</li>
+            <p id="foot-dir">direccion falsa, numero 1234, Santiago de Chile</p>
+            <ul id="foot-rrss">
                 <li><img class="sm-logo" src="./assets/instagram.png" alt=""></li>
                 <li><img class="sm-logo" src="./assets/twitter.png" alt=""></li>
                 <li><img class="sm-logo" src="./assets/tiktok.png" alt=""></li>
