@@ -1,0 +1,12 @@
+* instalar node
+ir a carpeta dle proyevto
+terminal
+    npm init
+    npm install -D node-sass nodemon
+ir a package.json y agregar elemento en la sesccion scripts
+    "build-css":"node-sass --include-path scss ./scss/style.scss ./css/style.css"
+    "watch-css":"nodemon -e scss -x \"npm run build-css\""
+terminal    
+    npm run watch-css
+
+**siemprw que vuelva a querer abrir el proyetco y trabajar con sass, ingresar el ultimo comando a la consola

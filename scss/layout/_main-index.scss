@@ -1,0 +1,118 @@
+main{
+    .msj-principal{
+        margin: auto;
+        width: 90%;
+        padding: 10px;
+        text-align: center;
+        display: grid;
+        grid-template-areas: "msj-principal1 msj-principal2";
+        grid-template-columns: 1fr 1fr ;
+    }
+    .msj-servicios{
+        margin : auto;
+        width: 90%;
+        padding: 10px;
+        text-align: center;
+
+        #grilla-servicios{
+            display:grid;
+            grid-template-areas:
+            "desa ds ana cloud rpa ia";
+            grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr;
+
+            padding: 0px;
+            margin: 0px;
+            list-style-type: none;
+            text-align: center;
+            vertical-align:top;
+            li{
+                padding: 10px;
+                margin: 10px;
+                outline: 1px solid #251D3A;
+                border-radius: 1%;
+                list-style-type: none;
+                text-align: center;
+                vertical-align:top;
+            }
+        } 
+    }
+    .blog-post-space{
+        margin : auto;
+        width: 90%;
+        text-align: center;
+        #grilla-blog{
+            display:grid;
+            grid-template-areas:"bp1 bp2 bp3 bp4";
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            .blog-post{
+                margin:10px;
+                padding: 10px;
+                outline: 1px solid #251D3A;
+                border-radius: 1%;
+                margin-bottom: 1%;
+                img{
+                    border-radius: 25%;
+                    width: 75%;
+                }
+                p{
+
+                    text-align: center;
+                }
+            }
+        }
+    }
+    #desa{
+        grid-area: desa;
+    }
+    #ds{
+        grid-area: ds;
+    }
+    #ana{
+        grid-area: ana;
+    }
+    #cloud{
+        grid-area: cloud;
+    }
+    #rpa{
+        grid-area: rpa;
+    }
+    #ia{
+        grid-area: ia;
+    }
+    #bp1{
+        grid-area: bp1;
+    }
+    #bp2{
+        grid-area: bp2;
+    }
+    #bp3{
+        grid-area: bp3;
+    }
+    #bp4{
+        grid-area: bp4;
+    }
+    .msj-principal1{
+        grid-area: principal1;
+    }
+    .msj-principal2{
+        grid-area: principal2;
+    }
+    .logo-wrapper{
+        grid-area: logo
+    }
+    .nav-menu{
+        grid-area: nav-menu;
+    }
+    #menu-nosotros{
+        grid-area: menu-nosotros;
+    }
+    #menu-servicios{
+        grid-area: menu-servicios;
+    }
+    #menu-blog{
+        grid-area: menu-blog;
+    }
+    #menu-contacto{
+        grid-area: menu-contacto;
+    }
+}

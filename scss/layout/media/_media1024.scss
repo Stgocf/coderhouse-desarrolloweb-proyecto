@@ -1,0 +1,22 @@
+main{
+    @media (max-width:$tablet2){
+        .msj-servicios{
+            #grilla-servicios{
+                grid-template-areas:
+                "desa ds ana"
+                "cloud rpa ia";
+                grid-template-rows: 1fr 1fr;
+                grid-template-columns: 1fr 1fr 1fr;
+            }
+        }
+        .blog-post-space{
+            #grilla-blog{
+                grid-template-areas: 
+                "bp1 bp2"
+                "bp3 bp4";
+                grid-template-rows: 1fr 1fr;
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+    }
+}

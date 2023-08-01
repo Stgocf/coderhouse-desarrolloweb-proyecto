@@ -2,49 +2,67 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="description" content="¿Tienes preguntas o deseas conocer más sobre nuestros servicios? ¡Contáctanos! En TECHVADIS, estamos aquí para brindarte asesoría personalizada y soluciones tecnológicas adaptadas a tus necesidades en Latinoamérica.">
+    <meta name="keywords" content="contacto, servicios tecnológicos, asesoría personalizada, desarrollo de software, soluciones tecnológicas, Latinoamérica, comunicación, soporte técnico, atención al cliente, consultas">
+    <meta name="author" content="Santiago Cuesta">
+    <meta name="copyright" content="TECHVADIS">
+    <meta property="og:title" content="TECHVADIS">
+    <meta property="og:description" content="¿Tienes preguntas o deseas conocer más sobre nuestros servicios?">
+    <meta property="og:site_name" content="TECHVADIS">
+    <meta property="og:type" content="website">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto - TECHVADIS</title>
+    <link rel="shortcut icon" href="../assets/logo-favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../css/style.css">
-    <title>Document</title>
 </head>
 <body>
-    <header>
-        <div class="logo-wrapper">
-            <a href="../index.html">
-                <img src="../assets/logo.png" alt="DevTalk Logo">
-            </a>
-        </div>
-        <nav class="mi-nav">
-            <ul>
-                <li><a href="../pages/nosotros.html">Nosotros</a></li>
-                <li><a href="../pages/servicios.html">Servicios</a></li>
-                <li><a href="../pages/blog.html">Blog</a></li>
-                <li><a href="../pages/contacto.html">Contacto</a></li>
-            </ul>
-        </nav>
+    <header id="header">
+        <div class="mi-nav" >
+            <div class="logo-wrapper">
+                <a href="../index.html">
+                    <img src="../assets/logo.png" alt="logo">
+                </a>
+            </div>
+            <nav class="nav-menu">
+                <ul class="nav-menu-ul">
+                    <li id="menu-nosotros"><a href="./nosotros.html">Nosotros</a></li>
+                    <li id="menu-servicios"><a href="./servicios.html">Servicios</a></li>
+                    <li id="menu-blog"><a href="./blog.html">Blog</a></li>
+                    <li id="menu-contacto"><a href="./contacto.html">Contacto</a></li>
+                </ul>
+            </nav>
+        </div> 
     </header>
     <main>
-        <div>
-            <form >
-                <label for="nombre" >Nombre competo: </label>
-                <input type="text" id="nombre" placeholder="escribe tu nombre de ususario" required>
+        <div >
+            <form id="form-contacto">
+                <div>
+                    <label for="nombre" >Nombre competo: </label>
+                    <input type="text" id="nombre" placeholder="escribe tu nombre de ususario" required>
+                </div>
+                <div>
+                    <label for="email" >Email: </label>
+                    <input type="text" id="email" placeholder="escribe tu correo" required>
+                </div>
+                <div>
+                    <label for="comentario" >Comentario: </label>
+                    <input type="text" id="comentario" placeholder="¿en qué podemos ayudarte?" required>
+                </div>
 
-                <label for="email" >Email: </label>
-                <input type="text" id="emai" placeholder="escribe tu correo" required>
-
-                <label for="comentario" >Comentario: </label>
-                <input type="button" id="comentario" placeholder="¿en qué podemos ayudarte?" required>
+                <button type="button" class="button-submit">Quiero que me contacten!</button>
             </form>
         </div>
         
     </main>
     <footer>
         <div class="mi-foot">
-            <ul>
-                <li>direccion falsa, numero 1234, Santiago de Chile</li>
+            <p id="foot-dir">direccion falsa, numero 1234, Santiago de Chile</p>
+            <ul id="foot-rrss">
                 <li><img class="sm-logo" src="../assets/instagram.png" alt=""></li>
                 <li><img class="sm-logo" src="../assets/twitter.png" alt=""></li>
                 <li><img class="sm-logo" src="../assets/tiktok.png" alt=""></li>
+                <!-- usar así para que no corte el tiempo en redes <a href="" target="_blank">Red social </a>  --> 
             </ul>
         </div>
     </footer>

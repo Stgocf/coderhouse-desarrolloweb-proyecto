@@ -1,0 +1,45 @@
+header{
+    @media (max-width:$mobile){
+        .mi-nav {
+            .nav-menu .nav-menu-ul{
+                display: flex;
+                flex-direction: column; 
+                margin: auto;
+                padding: 0;
+                text-align: center;
+            }
+        }
+    }
+}
+
+main{
+    @media (max-width:$mobile){
+        .msj-servicios{ 
+            margin: auto;
+            #grilla-servicios{
+                display: flex;
+                flex-direction: column;
+            }
+        }
+    
+        .msj-principal{
+            margin: auto;
+            width: 90%;
+            padding: 10px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
+footer{
+    @media (max-width:$mobile){
+
+        .mi-foot{
+            display: flex;
+            flex-direction: column;
+            padding-left: 1.5625rem;
+            padding-right: 1.5625rem;
+        }
+    }
+}

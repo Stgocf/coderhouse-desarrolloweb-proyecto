@@ -1,0 +1,66 @@
+header{
+    @media (max-width:$tablet1){
+        .mi-nav{
+            display: flex;
+            flex-direction: column;
+            .nav-menu{            
+                .nav-menu-ul{
+                    grid-template-areas: 
+                    "menu-nosotros menu-servicios"
+                    "menu-blog menu-contacto";
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-rows: 1fr 1fr;
+                }
+            }
+        }
+    }
+}
+
+main{
+    @media (max-width:$tablet1) {
+        .msj-servicios{
+            #grilla-servicios{
+                display:grid;
+                grid-template-areas:
+                "desa ds"
+                "ana cloud"
+                "rpa ia";
+                grid-template-rows: 1fr 1fr 1fr;
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+        .blog-post-space {
+            margin : auto;
+            #grilla-blog{
+                display: flex;
+                flex-direction: column;
+            }
+        }
+        #grilla-nosotros{
+            display:flex;
+            flex-direction: column;
+            text-align: center;
+            #nosotros-tit1{
+                padding: 0;
+                justify-content: center;
+            }
+            #nosotros-tit2{
+                padding: 0;
+                justify-content: center;
+            }
+            #nosotros-tit3{
+                padding: 0;
+                justify-content: center;
+            }
+            #nosotros-tit4{
+                padding: 0;
+                justify-content: center;
+            }
+        }
+        .main-servicios-grid{
+            display:flex;
+            flex-direction: column;
+        }
+        
+    }
+}

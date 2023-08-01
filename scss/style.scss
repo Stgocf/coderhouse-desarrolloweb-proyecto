@@ -1,0 +1,38 @@
+/* Variables y mixins*/
+$mobile : 375px;
+$tablet1: 768px;
+$tablet2: 1024px;
+
+@mixin head-foot-color{
+    background-color: #251D3A;
+}
+
+/* reset y tipografias */ 
+* {
+    margin: 0;
+    font-family: 'proxima-nova', sans-serif;
+
+	line-height: 1.875;
+    h1 h2 h3 h4 h5 h6{
+        font-weight: 450;
+    }
+    p{
+        font-weight: 150;
+        font-size: 18px;
+    }
+  }
+/* codigo pincipal */
+@import "./layout/header";
+@import "./layout/footer";
+@import "./layout/main-index";
+@import "./layout/main-nosotros";
+@import "./layout/main-servicios";
+@import "./layout/main-blog";
+@import "./layout/main-contacto";
+/* desktop first */
+@import "./layout/media/media1024";
+@import "./layout/media/media768";
+@import "./layout/media/media375";
+
+
+
