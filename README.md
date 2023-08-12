@@ -18,3 +18,4 @@ Pequeño sitio de prueba de una empresa ficticia, desarrollado en el contexto de
 
 ### extras
 - Proyecto seguirá activo hasta 2024-05 , cuando termina el programa. 
+- Horas trabajadas (Cruso Desarrollo Web Only): 24Hrs
