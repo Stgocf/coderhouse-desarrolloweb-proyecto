@@ -1,0 +1,7 @@
+$mobile : 375px;
+$tablet1: 768px;
+$tablet2: 1024px;
+
+@mixin head-foot-color{
+    background-color: #251D3A;
+}

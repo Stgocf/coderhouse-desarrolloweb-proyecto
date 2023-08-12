@@ -19,7 +19,7 @@ header{
 main{
     @media (max-width:$tablet1) {
         .msj-servicios{
-            #grilla-servicios{
+            .grilla-servicios{
                 display:grid;
                 grid-template-areas:
                 "desa ds"
@@ -31,28 +31,28 @@ main{
         }
         .blog-post-space {
             margin : auto;
-            #grilla-blog{
+            .grilla-blog{
                 display: flex;
                 flex-direction: column;
             }
         }
-        #grilla-nosotros{
+        .grilla-nosotros{
             display:flex;
             flex-direction: column;
             text-align: center;
-            #nosotros-tit1{
+            .nosotros-tit1{
                 padding: 0;
                 justify-content: center;
             }
-            #nosotros-tit2{
+            .nosotros-tit2{
                 padding: 0;
                 justify-content: center;
             }
-            #nosotros-tit3{
+            .nosotros-tit3{
                 padding: 0;
                 justify-content: center;
             }
-            #nosotros-tit4{
+            .nosotros-tit4{
                 padding: 0;
                 justify-content: center;
             }

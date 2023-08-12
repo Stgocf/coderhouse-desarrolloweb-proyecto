@@ -14,49 +14,66 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Servicios - TECHVADIS</title>
     <link rel="shortcut icon" href="../assets/logo-favicon.ico" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-    <header id="header">
-        <div class="mi-nav" >
-            <div class="logo-wrapper">
-                <a href="../index.html">
-                    <img src="../assets/logo.png" alt="logo">
+    <header class="header">
+        <div class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="../index.html">
+                  <img src="../assets/logo.png" alt="Techvadis" width="160" height="100">
                 </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link"  href="../index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link"  href="../pages/nosotros.html">Nosotros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="../pages/servicios.html">Servicios</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../pages/blog.html">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../pages/contacto.html">Contacto</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            <nav class="nav-menu">
-                <ul class="nav-menu-ul">
-                    <li id="menu-nosotros"><a href="./nosotros.html">Nosotros</a></li>
-                    <li id="menu-servicios"><a href="./servicios.html">Servicios</a></li>
-                    <li id="menu-blog"><a href="./blog.html">Blog</a></li>
-                    <li id="menu-contacto"><a href="./contacto.html">Contacto</a></li>
-                </ul>
-            </nav>
-        </div> 
+        </div>
     </header>
     <main >
+        <h1>Descubre nuestra propuesta de valor en tecnología</h1>
         <div class="main-servicios-grid">
-            <div id="desa" class="servicio-detail">
+            <div class="desa servicio-detail">
                 <h2>Desarrolo de Software</h2>
                 <p>En nuestro emprendimiento de <strong>software</strong>, ofrecemos servicios de desarrollo de software <strong>personalizado y a medida</strong> para satisfacer las necesidades únicas de tu negocio. Nuestro equipo de expertos en desarrollo trabaja estrechamente contigo para comprender tus <strong>requerimientos y objetivos</strong>, garantizando que el software resultante sea <strong>intuitivo, escalable y seguro</strong>. Desde aplicaciones <strong>web y móviles </strong>hasta soluciones empresariales, estamos comprometidos en brindarte productos de <strong>alta calidad</strong>que impulsen la eficiencia y el crecimiento de tu empresa.</p>
             </div>
-            <div id="ana" class="servicio-detail">
+            <div class="ana servicio-detail">
                 <h2>Analitica Avanzada</h2>
                 <p>Potencia la <strong>toma de decisiones</strong> informadas en tu empresa con nuestros servicios de analítica avanzada. Nuestro equipo de analistas expertos utilizará herramientas y técnicas de última generación para  <strong></strong>extraer información valiosa de tus datos. Mediante el análisis profundo de  <strong></strong>patrones, tendencias y comportamientos, obtendrás conocimientos significativos que te permitirán optimizar procesos, mejorar la experiencia del cliente y obtener una  <strong></strong>ventaja competitiva en tu industria.</p>
             </div>
-            <div id="ds" class="servicio-detail">
+            <div class="ds servicio-detail">
                 <h2>Ciencias de datos</h2>
                 <p>Nuestros servicios de ciencias de datos están diseñados para ayudarte a  <strong>transformar tus datos</strong> en activos estratégicos. Contamos con un equipo altamente capacitado que emplea metodologías avanzadas de minería de datos y aprendizaje automático para  <strong>descubrir información </strong>oculta y valiosa en tus conjuntos de datos. Desde la recopilación y limpieza de datos hasta la creación de modelos predictivos, estamos listos para impulsar la  <strong>innovación y el rendimiento</strong> de tu negocio a través del poder de los datos.</p>
             </div>
-            <div id="cloud" class="servicio-detail">
+            <div class="cloud servicio-detail">
                 <h2>Cloud</h2>
                 <p>Migra tu  <strong>infraestructura y aplicaciones</strong> a la nube con nuestros servicios especializados. Nuestro equipo de ingenieros en la nube te guiará en el proceso de  <strong>adopción y optimización </strong>de soluciones en la nube que se adapten perfectamente a tus necesidades. Ya sea que busques mayor escalabilidad, seguridad mejorada o reducción de costos operativos, te ayudaremos a aprovechar al máximo los servicios de la nube, garantizando una  <strong>transición</strong> sin problemas y una experiencia de usuario excepcional.</p>
             </div>
-            <div id="rpa" class="servicio-detail">
+            <div class="rpa servicio-detail">
                 <h2>RPA</h2>
                 <p>Optimiza la  <strong>eficiencia y precisión </strong>de tus operaciones con nuestra solución de RPA. Nuestro equipo experto en automatización robótica de procesos desarrollará robots virtuales para realizar  <strong>tareas repetitivas</strong>y basadas en reglas en tu empresa. Desde la automatización de flujos de trabajo hasta la integración de sistemas, nuestros robots trabajan de manera incansable las  <strong>24/7</strong>, liberando a tus empleados para enfocarse en actividades más  <strong>estratégicas</strong> y de mayor valor.</p>
             </div>
-            <div id="ia" class="servicio-detail">
+            <div class="ia servicio-detail">
                 <h2>Inteligencia Artificia</h2>
                 <p>Descubre nuevas oportunidades y desafíos resolviendo  <strong>problemas complejos</strong> con nuestra experiencia en inteligencia artificial (IA). Nuestro equipo de científicos de datos e ingenieros de IA desarrollará soluciones personalizadas que abarquen desde chatbots inteligentes y análisis predictivo hasta reconocimiento de imágenes y procesamiento del lenguaje natural. Con nuestra experiencia en IA, te ayudaremos a aprovechar al máximo el potencial de esta tecnología innovadora para impulsar la  <strong>productividad</strong>, la innovación y la toma de decisiones inteligentes en tu organización.</p>
             </div>
@@ -65,12 +82,22 @@
     </main>
     <footer>
         <div class="mi-foot">
-            <p id="foot-dir">direccion falsa, numero 1234, Santiago de Chile</p>
-            <ul id="foot-rrss">
-                <li><img class="sm-logo" src="../assets/instagram.png" alt=""></li>
-                <li><img class="sm-logo" src="../assets/twitter.png" alt=""></li>
-                <li><img class="sm-logo" src="../assets/tiktok.png" alt=""></li>
-            </ul>
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-md">
+                      <p class="text-center">Correo electrónico: info@example.com</p>
+                      <p class="text-center">Teléfono: 123-456-7890</p>
+                      <p class="text-center">(c) 2023 Mi Sitio Web. Todos los derechos reservados.</p>
+                    </div>
+                    <div class="col-md">
+                        <ul class="footer-rrss">
+                            <li><img class="sm-logo" src="../assets/instagram.png" alt=""></li>
+                            <li><img class="sm-logo" src="../assets/twitter.png" alt=""></li>
+                            <li><img class="sm-logo" src="../assets/tiktok.png" alt=""></li>
+                        </ul>
+                      </div>
+                  </div>
+            </div>
         </div>
     </footer>
 </body>

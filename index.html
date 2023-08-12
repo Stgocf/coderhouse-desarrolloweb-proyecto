@@ -14,79 +14,142 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>TECHVADIS - Desarrollo Tecnológico en Latinoamérica</title>
     <link rel="shortcut icon" href="./assets/logo-favicon.ico" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    <header id="header">
-        <div class="mi-nav" >
-            <div class="logo-wrapper">
-                <a href="index.html">
-                    <img src="./assets/logo.png" alt="logo">
+    <header class="header">
+        <div class="navbar navbar-expand-lg ">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">
+                  <img src="./assets/logo.png" alt="Techvadis" width="160" height="100">
                 </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active"  href="index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link"  href="./pages/nosotros.html">Nosotros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./pages/servicios.html">Servicios</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./pages/blog.html">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./pages/contacto.html">Contacto</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            <nav class="nav-menu">
-                <ul class="nav-menu-ul">
-                    <li id="menu-nosotros"><a href="./pages/nosotros.html">Nosotros</a></li>
-                    <li id="menu-servicios"><a href="./pages/servicios.html">Servicios</a></li>
-                    <li id="menu-blog"><a href="./pages/blog.html">Blog</a></li>
-                    <li id="menu-contacto"><a href="./pages/contacto.html">Contacto</a></li>
-                </ul>
-            </nav>
-        </div> 
+        </div>
     </header>
     <main >
-        <div class="msj-principal">
-            <h2 id="msj-principal1">Descubre y utiliza el valor de tu negocio apalancandote en la tecnología</h2>
-            <div id="msj-principal2">
+        <div class="msj-principal container">
+            <h1 class="msj-principal1">Descubre y utiliza el valor de tu negocio apalancandote en la tecnología</h1>
+            <div class="msj-principal2">
                 <p>¿Tienes algun proyecto en mente y necesitas ayuda?</p>
-                <button>Cuentanos de tu proyecto</button>
+                <button type="button" class="btn btn-primary btn-lg custom-btn">Cuentanos de tu proyecto</button>
             </div>
             <br>
             <br>
         </div>
         <div class="msj-servicios">
             <h2>Servicios Tecnológicos Personalizados</h2>
-            <br>
-            <ul id="grilla-servicios" >
-                <li id="desa"><a href="">Desarrollo de Software</a></li>
-                <li id="ds"><a href="">Ciencias de Datos</a></li>
-                <li id="ana"><a href="">Analítica Avanzada</a></li>
-                <li id="cloud"><a href="">Cloud</a></li>
-                <li id="rpa"><a href="">RPA</a></li>
-                <li id="ia"><a href="">Inteligencia Artificial</a></li>
-            </ul>
-            <br>
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="./assets/blog.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Desarrollo de Software</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/blog-ds.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Ciencias de Datos</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/blog-data.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Analítica Avanzada</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/blog-cloud.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Arquitectura Cloud</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/blog-rpa.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Robotic Process Automation</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/blog-ia.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Inteligencia Artificial</h5>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                  </button>
+            </div>
+            
             <br>
         </div>
         <div class="blog-post-space">
             <h2>Novedades Tecnológicas y Artículos de Interés</h2>
             <br>
-            <div id="grilla-blog">
-                <div id="bp1" class="blog-post">
+            <div class="grilla-blog">
+                <div class="bp1 blog-post">
                     <h4>Software a Medida: Cómo Impulsar tu Empresa hacia el Éxito</h4>
                     <br>
-                    <img src="./assets/blog.jpeg" alt="">
+                    <img src="./assets/blog.jpg" alt="">
                     <br>
                     <p class="blog-preview">Descubre cómo nuestro equipo de <strong>desarrollo de software</strong> personalizado crea soluciones a medida que transforman y optimizan tus operaciones empresariales, impulsando tu <strong>competitividad</strong> en el mercado.</p>
                 </div>
-                <div id="bp2" class="blog-post">
+                <div class="bp2 blog-post">
                     <h4>Datos que Transforman: Cómo la Analítica Avanzada Revoluciona la Toma de Decisiones</h4>
                     <br>
-                    <img src="./assets/blog.jpeg" alt="">
+                    <img src="./assets/blog-data.jpg" alt="">
                     <br>
                     <p class="blog-preview">Explora cómo nuestra analítica avanzada extrae conocimientos significativos de tus datos, permitiéndote tomar <strong>decisiones informadas</strong> , identificar oportunidades y mejorar la eficiencia operativa.</p>
                 </div>
-                <div id="bp3" class="blog-post">
+                <div class="bp3 blog-post">
                     <h4>Descifrando el Poder de los Datos: Nuestro Enfoque en Ciencias de Datos</h4>
                     <br>
-                    <img src="./assets/blog.jpeg" alt="">
+                    <img src="./assets/blog-ds.jpg" alt="">
                     <br>
                     <p class="blog-preview">Adéntrate en el fascinante mundo de las <strong>ciencias de datos</strong> y descubre cómo nuestro equipo experto desbloquea el <strong>potencial oculto</strong> en tus datos, proporcionando soluciones predictivas y valiosos conocimientos para tu negocio.</p>
                 </div>
-                <div id="bp4" class="blog-post">
+                <div class="bp4 blog-post">
                     <h4>Nube: Elevando tu Negocio hacia Nuevas Alturas</h4>
                     <br>
-                    <img src="./assets/blog.jpeg" alt="">
+                    <img src="./assets/blog-cloud.jpg" alt="">
                     <br>
                     <p class="blog-preview">Exploramos cómo la migración a la nube puede <strong>mejorar la agilidad y la seguridad </strong>de tu empresa, permitiéndote acceder a recursos escalables y tecnologías innovadoras para impulsar el crecimiento.</p>
                 </div>
@@ -95,12 +158,22 @@
     </main>
     <footer>
         <div class="mi-foot">
-            <p id="foot-dir">direccion falsa, numero 1234, Santiago de Chile</p>
-            <ul id="foot-rrss">
-                <li><img class="sm-logo" src="./assets/instagram.png" alt=""></li>
-                <li><img class="sm-logo" src="./assets/twitter.png" alt=""></li>
-                <li><img class="sm-logo" src="./assets/tiktok.png" alt=""></li>
-            </ul>
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-md">
+                      <p class="text-center">Correo electrónico: info@example.com</p>
+                      <p class="text-center">Teléfono: 123-456-7890</p>
+                      <p class="text-center">(c) 2023 Mi Sitio Web. Todos los derechos reservados.</p>
+                    </div>
+                    <div class="col-md">
+                        <ul class="footer-rrss">
+                            <li><img class="sm-logo" src="./assets/instagram.png" alt=""></li>
+                            <li><img class="sm-logo" src="./assets/twitter.png" alt=""></li>
+                            <li><img class="sm-logo" src="./assets/tiktok.png" alt=""></li>
+                        </ul>
+                      </div>
+                  </div>
+            </div>
         </div>
     </footer>
 </body>

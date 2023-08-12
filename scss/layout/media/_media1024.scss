@@ -1,7 +1,7 @@
 main{
     @media (max-width:$tablet2){
         .msj-servicios{
-            #grilla-servicios{
+            .grilla-servicios{
                 grid-template-areas:
                 "desa ds ana"
                 "cloud rpa ia";
@@ -10,7 +10,7 @@ main{
             }
         }
         .blog-post-space{
-            #grilla-blog{
+            .grilla-blog{
                 grid-template-areas: 
                 "bp1 bp2"
                 "bp3 bp4";

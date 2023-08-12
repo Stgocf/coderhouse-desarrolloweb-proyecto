@@ -1,0 +1,39 @@
+Buenas Maxi y Dami
+
+Adjunto la entrega final
+Github Repository: LINK
+Github Pages: LINK
+Servidor: Netlify + LINK
+FIGMA: Opcional (frames.pdf)
+Presupuesto: /tecnologias, metodologia, precio)
+
+.......
+
+Codigo:
+1- Semantica
+2- Identacion
+3- Enlaces
+4- responsive ttodos los sitios (60% deaprov, de 320 hacia arriba)
+5- sass
+6- framework (Opcional) Bootstrap, componentes personalizados
+7- texto personalizado 
+8- Readme (proyecto, profesor, tutor, herramientas, alguna presentación, etc)
+9- Commit con "Entrega Final"
+
+hasta el 12 de agosto 22:59 Chile
+
+---------------
+comentarios pre-entrega3
+
+OK!! --> Agregar más contenido que no sea solo texto al proyecto.
+OK!! -->La página de contacto necesita más contenido en general tanto multimedia como texto y componentes.
+
+Aquellos archivos vacios del proyecto, debemos borrarlo del mismo.
+
+OK!! --> La página de contacto necesita más contenido en general tanto multimedia como texto y componentes.
+OK!! --> Terminar el responsive de los HTML's restantes.
+OK!! --> Si bien los ID sirven para dar estilos a los elementos de tu HTML tambien, lo ideal es no utilizarlos para este fin, en su lugar utiliza clases, los ID los reservamos para JavaScript.
+OK!! --> Debe haber un h1 por HTML, si usamos un h2 sin un h1 antes es incorrecto.
+OK!! --> En el archivo styles.scss no debe haber estilos, solo @imports a otros SCSS con sus respectivos estilos.
+OK!! --> El navbar es algo grande en mobile, quizás usando el de BS o cambiando el estilo del mismo en mobile quede mejor.
+OK!! --> El botón de "cuentanos tu proyecto" no tiene estilos aplicado, esta por defecto.

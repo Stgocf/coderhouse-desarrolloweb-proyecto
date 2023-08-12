@@ -1,6 +1,7 @@
 main{
+    background-color: #2A2550;
+    color: #FF7700;
     .msj-principal{
-        margin: auto;
         width: 90%;
         padding: 10px;
         text-align: center;
@@ -14,7 +15,7 @@ main{
         padding: 10px;
         text-align: center;
 
-        #grilla-servicios{
+        .grilla-servicios{
             display:grid;
             grid-template-areas:
             "desa ds ana cloud rpa ia";
@@ -40,7 +41,7 @@ main{
         margin : auto;
         width: 90%;
         text-align: center;
-        #grilla-blog{
+        .grilla-blog{
             display:grid;
             grid-template-areas:"bp1 bp2 bp3 bp4";
             grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -61,41 +62,46 @@ main{
             }
         }
     }
-    #desa{
+    .desa{
         grid-area: desa;
     }
-    #ds{
+    .ds{
         grid-area: ds;
     }
-    #ana{
+    .ana{
         grid-area: ana;
     }
-    #cloud{
+    .cloud{
         grid-area: cloud;
     }
-    #rpa{
+    .rpa{
         grid-area: rpa;
     }
-    #ia{
+    .ia{
         grid-area: ia;
     }
-    #bp1{
+    .bp1{
         grid-area: bp1;
     }
-    #bp2{
+    .bp2{
         grid-area: bp2;
     }
-    #bp3{
+    .bp3{
         grid-area: bp3;
     }
-    #bp4{
+    .bp4{
         grid-area: bp4;
     }
     .msj-principal1{
-        grid-area: principal1;
+        grid-area: msj-principal1;
     }
     .msj-principal2{
-        grid-area: principal2;
+        grid-area: msj-principal2;
+        .custom-btn{
+            background-color: #E04D01;
+            color: #251D3A;
+            border-color: #251D3A;
+        }
     }
     .logo-wrapper{
         grid-area: logo
@@ -103,16 +109,16 @@ main{
     .nav-menu{
         grid-area: nav-menu;
     }
-    #menu-nosotros{
+    .menu-nosotros{
         grid-area: menu-nosotros;
     }
-    #menu-servicios{
+    .menu-servicios{
         grid-area: menu-servicios;
     }
-    #menu-blog{
+    .menu-blog{
         grid-area: menu-blog;
     }
-    #menu-contacto{
+    .menu-contacto{
         grid-area: menu-contacto;
     }
 }

@@ -14,3 +14,7 @@ Pequeño sitio de prueba de una empresa ficticia, desarrollado en el contexto de
 - Uso básico de Sass para preprocesar CSS
 - SEO OnPage básico
 - FullResponsive
+- Experimentacion con Bootstrap Framework
+
+### extras
+- Proyecto seguirá activo hasta 2024-05 , cuando termina el programa. 

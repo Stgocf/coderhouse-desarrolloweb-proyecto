@@ -1,23 +1,8 @@
 main{
-    .button-basic  {
-        border: none;
-        text-align: center;
-        cursor: pointer;
-      }
-      
-      .button-report  {
-        @extend .button-basic;
-        background-color: red;
-      }
-      
-      .button-submit  {
-        @extend .button-basic;
-        background-color: green;
-        color: white;
-      }
-
-      .form-contacto{
-        display: flex;
-        flex-direction: row;
-      }
+  .custom-btn{
+    background-color: #E04D01;
+    color: #251D3A;
+    border-color: #251D3A;
+    margin-top: auto;
+}
 }

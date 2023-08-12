@@ -1,24 +1,16 @@
 footer{
+    @include head-foot-color;
+    color: #E04D01;
     .mi-foot{
-        list-style: none;
-        @include head-foot-color;
-        height: 10rem;
-        display: grid;
-        grid-template-areas: "foot-dir foot-rrss";
-        grid-template-columns: 1fr 1fr;
         p{
             color: #E04D01;
             justify-content: center;
         }
         ul{
-            padding: 0px;
-            margin: 0px;
-            list-style-type: none;
-            text-align: center;
-            vertical-align:top;
-            align-items: center;
+            
             li{
                 display: inline;
+
                 font-weight: bold;
                 justify-content: center;
                 text-decoration: none;
@@ -26,6 +18,9 @@ footer{
                 text-align: center;
                 img {
                     max-height: 3rem;
+                }
+                a{
+                    color: #E04D01;
                 }
             }
         }

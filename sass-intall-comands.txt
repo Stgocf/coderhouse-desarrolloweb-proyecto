@@ -9,4 +9,4 @@ ir a package.json y agregar elemento en la sesccion scripts
 terminal    
     npm run watch-css
 
-**siemprw que vuelva a querer abrir el proyetco y trabajar con sass, ingresar el ultimo comando a la consola
+**siempre que vuelva a querer abrir el proyetco y trabajar con sass, ingresar el ultimo comando a la consola

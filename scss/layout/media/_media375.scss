@@ -16,7 +16,7 @@ main{
     @media (max-width:$mobile){
         .msj-servicios{ 
             margin: auto;
-            #grilla-servicios{
+            .grilla-servicios{
                 display: flex;
                 flex-direction: column;
             }

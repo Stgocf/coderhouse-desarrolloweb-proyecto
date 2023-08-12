@@ -14,51 +14,133 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Nosotros - TECHVADIS</title>
     <link rel="shortcut icon" href="../assets/logo-favicon.ico" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-    <header id="header">
-        <div class="mi-nav" >
-            <div class="logo-wrapper">
-                <a href="../index.html">
-                    <img src="../assets/logo.png" alt="logo">
+    <header class="header">
+        <div class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="../index.html">
+                  <img src="../assets/logo.png" alt="Techvadis" width="160" height="100">
                 </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link"  href="../index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active"  href="../pages/nosotros.html">Nosotros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../pages/servicios.html">Servicios</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../pages/blog.html">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../pages/contacto.html">Contacto</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            <nav class="nav-menu">
-                <ul class="nav-menu-ul">
-                    <li id="menu-nosotros"><a href="./nosotros.html">Nosotros</a></li>
-                    <li id="menu-servicios"><a href="./servicios.html">Servicios</a></li>
-                    <li id="menu-blog"><a href="./blog.html">Blog</a></li>
-                    <li id="menu-contacto"><a href="./contacto.html">Contacto</a></li>
-                </ul>
-            </nav>
-        </div> 
+        </div>
     </header>
     <main>
-        <div id="grilla-nosotros">
+        <div class="container">
+            <div class="row text-center">
+                <h1>Nuestra escencia, quienes realmente somos y qué defendemos</h1>
+            </div>
+            <div class="accordion" id="accordionPanelsStayOpenExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                      Nuestra Empresa
+                    </button>
+                  </h2>
+                  <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+                    <div class="accordion-body">
+                        <p>En TECHVADIS, nos enorgullecemos de ser un emprendimiento de tecnología apasionado, formado por un equipo entusiasta que ama los desafíos que la era digital nos presenta. Nuestro compromiso es impulsar el desarrollo tecnológico de primer nivel en Latinoamérica y más allá, brindando soluciones innovadoras y creativas que generen un impacto positivo en la sociedad. </p>
+                        <br>
+                        <p>Somos una empresa con una visión progresista, donde nos guiamos por la filosofía de la colaboración y la organización horizontal. Creemos firmemente en la importancia de escuchar y valorar las ideas de cada miembro del equipo, fomentando un ambiente de trabajo inclusivo y enriquecedor. Nuestra pasión por la tecnología y la resolución de problemas nos impulsa a explorar nuevos enfoques y utilizar las últimas herramientas y tendencias en el campo de la informática.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                        Visión
+                    </button>
+                  </h2>
+                  <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
+                    <div class="accordion-body">
+                        <p>Nuestra visión en TECHVADIS es ser líderes en el desarrollo y la implementación de soluciones tecnológicas vanguardistas en Latinoamérica. Nos esforzamos por ser un referente en la industria, reconociendo las oportunidades que la tecnología brinda para mejorar la calidad de vida de las personas y potenciar el crecimiento de las empresas y comunidades en la región.</p>
+                        <br>
+                        <p>Buscamos forjar un futuro donde la tecnología esté al alcance de todos, creando un entorno más inclusivo y accesible. Queremos contribuir significativamente a la transformación digital de Latinoamérica, fomentando la adopción de tecnologías emergentes y la creación de soluciones innovadoras que aborden los desafíos presentes y futuros.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                        Misión
+                    </button>
+                  </h2>
+                  <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
+                    <div class="accordion-body">
+                        <p>En TECHVADIS, nuestra misión es aplicar nuestra pasión por la tecnología y la innovación para desarrollar soluciones que potencien el crecimiento y la sostenibilidad en Latinoamérica. A través de un enfoque colaborativo y horizontal, buscamos empoderar a las personas, las empresas y las instituciones, ofreciendo servicios de alta calidad en desarrollo de software, análisis de datos, inteligencia artificial, automatización robótica y soluciones en la nube.</p>
+                        <br>
+                        <p>Nos esforzamos por ser un referente en la industria, abogando por la ética y la responsabilidad en el uso de la tecnología. Nuestra misión va más allá del éxito comercial; también estamos comprometidos a contribuir al bienestar social y medioambiental en la región, promoviendo el acceso a la tecnología y la formación de talento local.</p>
+                        <br>
+                        <p>Con un equipo apasionado y una visión clara, trabajamos incansablemente para convertirnos en un motor impulsor del desarrollo tecnológico de Latinoamérica y brindar soluciones que hagan una diferencia positiva en la vida de las personas y el progreso de la región.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                        Nuestra Cultura
+                      </button>
+                    </h2>
+                    <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse">
+                      <div class="accordion-body">
+                          <p>En TECHVADIS, la cultura organizacional es el pilar fundamental que impulsa nuestra pasión por la tecnología y nuestro compromiso con Latinoamérica. Nuestro equipo es una comunidad cohesionada y diversa de mentes creativas y apasionadas que comparten una visión común: contribuir al desarrollo tecnológico de primer nivel en la región y hacer una diferencia positiva en la vida de las personas.</p>
+                      </div>
+                    </div>
+                  </div>
+              </div>
 
-            <div id="nosotros-tit1">
+        </div>
+        <!-- 
+        <h1>Nuestra escencia, quienes realmente somos y qué defendemos</h1>
+        <div class="grilla-nosotros">
+
+            <div class="nosotros-tit1">
                 <h2>Nuestra Empresa</h2>
             </div>
-            <div id="nosotros-text1">
+            <div class="nosotros-text1">
                 <p>En TECHVADIS, nos enorgullecemos de ser un emprendimiento de tecnología apasionado, formado por un equipo entusiasta que ama los desafíos que la era digital nos presenta. Nuestro compromiso es impulsar el desarrollo tecnológico de primer nivel en Latinoamérica y más allá, brindando soluciones innovadoras y creativas que generen un impacto positivo en la sociedad. </p>
                 <br>
                 <p>Somos una empresa con una visión progresista, donde nos guiamos por la filosofía de la colaboración y la organización horizontal. Creemos firmemente en la importancia de escuchar y valorar las ideas de cada miembro del equipo, fomentando un ambiente de trabajo inclusivo y enriquecedor. Nuestra pasión por la tecnología y la resolución de problemas nos impulsa a explorar nuevos enfoques y utilizar las últimas herramientas y tendencias en el campo de la informática.</p>
             </div>
             <br>
-            <div id="nosotros-tit2">
+            <div class="nosotros-tit2">
                 <h2>Visión</h2>
             </div>
-            <div id="nosotros-text2">   
+            <div class="nosotros-text2">   
                 <p>Nuestra visión en TECHVADIS es ser líderes en el desarrollo y la implementación de soluciones tecnológicas vanguardistas en Latinoamérica. Nos esforzamos por ser un referente en la industria, reconociendo las oportunidades que la tecnología brinda para mejorar la calidad de vida de las personas y potenciar el crecimiento de las empresas y comunidades en la región.</p>
                 <br>
                 <p>Buscamos forjar un futuro donde la tecnología esté al alcance de todos, creando un entorno más inclusivo y accesible. Queremos contribuir significativamente a la transformación digital de Latinoamérica, fomentando la adopción de tecnologías emergentes y la creación de soluciones innovadoras que aborden los desafíos presentes y futuros.</p>
             </div>
             <br>
-            <div id="nosotros-tit3">  
+            <div class="nosotros-tit3">  
                 <h2>Misión</h2>
             </div>
-            <div id="nosotros-text3">   
+            <div class="nosotros-text3">   
                 <p>En TECHVADIS, nuestra misión es aplicar nuestra pasión por la tecnología y la innovación para desarrollar soluciones que potencien el crecimiento y la sostenibilidad en Latinoamérica. A través de un enfoque colaborativo y horizontal, buscamos empoderar a las personas, las empresas y las instituciones, ofreciendo servicios de alta calidad en desarrollo de software, análisis de datos, inteligencia artificial, automatización robótica y soluciones en la nube.</p>
                 <br>
                 <p>Nos esforzamos por ser un referente en la industria, abogando por la ética y la responsabilidad en el uso de la tecnología. Nuestra misión va más allá del éxito comercial; también estamos comprometidos a contribuir al bienestar social y medioambiental en la región, promoviendo el acceso a la tecnología y la formación de talento local.</p>
@@ -66,22 +148,33 @@
                 <p>Con un equipo apasionado y una visión clara, trabajamos incansablemente para convertirnos en un motor impulsor del desarrollo tecnológico de Latinoamérica y brindar soluciones que hagan una diferencia positiva en la vida de las personas y el progreso de la región.</p>
             </div>
             <br>
-            <div id="nosotros-tit4">
+            <div class="nosotros-tit4">
                 <h2>Nuestra Cultura</h2>
             </div>
-            <div id="nosotros-text4">  
+            <div class="nosotros-text4">  
                 <p>En TECHVADIS, la cultura organizacional es el pilar fundamental que impulsa nuestra pasión por la tecnología y nuestro compromiso con Latinoamérica. Nuestro equipo es una comunidad cohesionada y diversa de mentes creativas y apasionadas que comparten una visión común: contribuir al desarrollo tecnológico de primer nivel en la región y hacer una diferencia positiva en la vida de las personas.</p>
             </div>
         </div>
+        -->
     </main>
     <footer>
         <div class="mi-foot">
-            <p id="foot-dir">direccion falsa, numero 1234, Santiago de Chile</p>
-            <ul id="foot-rrss">
-                <li><img class="sm-logo" src="../assets/instagram.png" alt=""></li>
-                <li><img class="sm-logo" src="../assets/twitter.png" alt=""></li>
-                <li><img class="sm-logo" src="../assets/tiktok.png" alt=""></li>
-            </ul>
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-md">
+                      <p class="text-center">Correo electrónico: info@example.com</p>
+                      <p class="text-center">Teléfono: 123-456-7890</p>
+                      <p class="text-center">(c) 2023 Mi Sitio Web. Todos los derechos reservados.</p>
+                    </div>
+                    <div class="col-md">
+                        <ul class="footer-rrss">
+                            <li><img class="sm-logo" src="../assets/instagram.png" alt=""></li>
+                            <li><img class="sm-logo" src="../assets/twitter.png" alt=""></li>
+                            <li><img class="sm-logo" src="../assets/tiktok.png" alt=""></li>
+                        </ul>
+                      </div>
+                  </div>
+            </div>
         </div>
     </footer>
 </body>
