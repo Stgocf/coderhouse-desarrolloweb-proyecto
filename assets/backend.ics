@@ -1,0 +1,1325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:50035
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20231211T130000Z
+SUMMARY:50035 - Opcional Principios de programación Backend
+DTSTART:20231211T130000Z
+DTEND:20231211T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0042c
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Opcional Principios de programación Backend
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20231213T130000Z
+SUMMARY:50035 - Principios básicos de JavaScript
+DTSTART:20231213T130000Z
+DTEND:20231213T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0042d
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Principios básicos de JavaScript
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20231218T130000Z
+SUMMARY:50035 - Nuevas funcionalidades de los lenguajes ECMAScritpt
+DTSTART:20231218T130000Z
+DTEND:20231218T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0042e
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Nuevas funcionalidades de los lenguajes ECMAScritpt
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20231220T130000Z
+SUMMARY:50035 - Programación sincrónica y asincrónica
+DTSTART:20231220T130000Z
+DTEND:20231220T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0042f
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Programación sincrónica y asincrónica
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240103T130000Z
+SUMMARY:50035 - Manejo de archivos en JavaScript
+DTSTART:20240103T130000Z
+DTEND:20240103T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00430
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Manejo de archivos en JavaScript
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240108T130000Z
+SUMMARY:50035 - Administrador de paquetes NPM
+DTSTART:20240108T130000Z
+DTEND:20240108T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00431
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Administrador de paquetes NPM
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240110T130000Z
+SUMMARY:50035 - Servidores web
+DTSTART:20240110T130000Z
+DTEND:20240110T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00432
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Servidores web
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240115T130000Z
+SUMMARY:50035 - Express avanzado
+DTSTART:20240115T130000Z
+DTEND:20240115T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00433
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Express avanzado
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240117T130000Z
+SUMMARY:50035 - Router y Multer
+DTSTART:20240117T130000Z
+DTEND:20240117T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00434
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Router y Multer
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240122T130000Z
+SUMMARY:50035 - Motores de plantillas
+DTSTART:20240122T130000Z
+DTEND:20240122T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00435
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Motores de plantillas
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240124T130000Z
+SUMMARY:50035 - Websockets
+DTSTART:20240124T130000Z
+DTEND:20240124T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00436
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Websockets
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240129T130000Z
+SUMMARY:50035 - Aplicación chat con Websockets
+DTSTART:20240129T130000Z
+DTEND:20240129T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00437
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Aplicación chat con Websockets
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240131T130000Z
+SUMMARY:50035 - MongoDB
+DTSTART:20240131T130000Z
+DTEND:20240131T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00438
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - MongoDB
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240205T130000Z
+SUMMARY:50035 - CRUD en MongoDB
+DTSTART:20240205T130000Z
+DTEND:20240205T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00439
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - CRUD en MongoDB
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240207T130000Z
+SUMMARY:50035 - Mongoose
+DTSTART:20240207T130000Z
+DTEND:20240207T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043a
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Mongoose
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240212T130000Z
+SUMMARY:50035 - Primera práctica integradora
+DTSTART:20240212T130000Z
+DTEND:20240212T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043b
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Primera práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240214T130000Z
+SUMMARY:50035 - Mongo Avanzado Parte I
+DTSTART:20240214T130000Z
+DTEND:20240214T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043c
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Mongo Avanzado Parte I
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240219T130000Z
+SUMMARY:50035 - Mongo Avanzado Parte II
+DTSTART:20240219T130000Z
+DTEND:20240219T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043d
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Mongo Avanzado Parte II
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240221T130000Z
+SUMMARY:50035 - Cookies, Sessions  Storages
+DTSTART:20240221T130000Z
+DTEND:20240221T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043e
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Cookies, Sessions  Storages
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240226T130000Z
+SUMMARY:50035 - Cookies, Session  Storage II
+DTSTART:20240226T130000Z
+DTEND:20240226T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043f
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Cookies, Session  Storage II
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240228T130000Z
+SUMMARY:50035 - Autorización y autenticación
+DTSTART:20240228T130000Z
+DTEND:20240228T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00440
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Autorización y autenticación
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240304T130000Z
+SUMMARY:50035 - Estrategia de autenticación por terceros  JWT
+DTSTART:20240304T130000Z
+DTEND:20240304T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00441
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Estrategia de autenticación por terceros  JWT
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240306T130000Z
+SUMMARY:50035 - Passport Avanzado
+DTSTART:20240306T130000Z
+DTEND:20240306T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00442
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Passport Avanzado
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240311T130000Z
+SUMMARY:50035 - Ruteo avanzado y estrategias avanzadas de autorización
+DTSTART:20240311T130000Z
+DTEND:20240311T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00443
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Ruteo avanzado y estrategias avanzadas de autorización
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240313T130000Z
+SUMMARY:50035 - Segunda práctica integradora
+DTSTART:20240313T130000Z
+DTEND:20240313T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00444
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Segunda práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240318T130000Z
+SUMMARY:50035 - Proceso principal del servidor  Global  Child Process
+DTSTART:20240318T130000Z
+DTEND:20240318T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00445
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Proceso principal del servidor  Global  Child Process
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240320T130000Z
+SUMMARY:50035 - Arquitectura por capas
+DTSTART:20240320T130000Z
+DTEND:20240320T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00446
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Arquitectura por capas
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240325T130000Z
+SUMMARY:50035 - Arquitectura del servidor Diseño
+DTSTART:20240325T130000Z
+DTEND:20240325T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00447
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Arquitectura del servidor Diseño
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240327T130000Z
+SUMMARY:50035 - Arquitectura del servidor Persistencia
+DTSTART:20240327T130000Z
+DTEND:20240327T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00448
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Arquitectura del servidor Persistencia
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240401T130000Z
+SUMMARY:50035 - Desarrollo de un servidor web basado en capas completo
+DTSTART:20240401T130000Z
+DTEND:20240401T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00449
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Desarrollo de un servidor web basado en capas completo
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240403T130000Z
+SUMMARY:50035 - Mailing y mensajería
+DTSTART:20240403T130000Z
+DTEND:20240403T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044a
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Mailing y mensajería
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240408T130000Z
+SUMMARY:50035 - Test y Mocks
+DTSTART:20240408T130000Z
+DTEND:20240408T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044b
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Test y Mocks
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240410T130000Z
+SUMMARY:50035 - Optimización
+DTSTART:20240410T130000Z
+DTEND:20240410T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044c
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Optimización
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240415T130000Z
+SUMMARY:50035 - Versiones y paquetes
+DTSTART:20240415T130000Z
+DTEND:20240415T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044d
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Versiones y paquetes
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240417T130000Z
+SUMMARY:50035 - Logging y performance
+DTSTART:20240417T130000Z
+DTEND:20240417T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044e
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Logging y performance
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240422T130000Z
+SUMMARY:50035 - Clusters y escalabilidad
+DTSTART:20240422T130000Z
+DTEND:20240422T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044f
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Clusters y escalabilidad
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240424T130000Z
+SUMMARY:50035 - Orquestación de contenedores
+DTSTART:20240424T130000Z
+DTEND:20240424T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00450
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Orquestación de contenedores
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240429T130000Z
+SUMMARY:50035 - Tercera práctica integradora
+DTSTART:20240429T130000Z
+DTEND:20240429T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00451
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Tercera práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240501T130000Z
+SUMMARY:50035 - Seguridad
+DTSTART:20240501T130000Z
+DTEND:20240501T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00452
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Seguridad
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240506T130000Z
+SUMMARY:50035 - Documentación de API
+DTSTART:20240506T130000Z
+DTEND:20240506T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00453
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Documentación de API
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240508T130000Z
+SUMMARY:50035 - Testing unitarios
+DTSTART:20240508T130000Z
+DTEND:20240508T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00454
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Testing unitarios
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240513T130000Z
+SUMMARY:50035 - Testing Avanzado
+DTSTART:20240513T130000Z
+DTEND:20240513T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00455
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Testing Avanzado
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240515T130000Z
+SUMMARY:50035 - Frameworks de desarrollo NEST js I
+DTSTART:20240515T130000Z
+DTEND:20240515T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00456
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Frameworks de desarrollo NEST js I
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240520T130000Z
+SUMMARY:50035 - Frameworks de desarrollo NEST js II
+DTSTART:20240520T130000Z
+DTEND:20240520T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00457
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Frameworks de desarrollo NEST js II
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240522T130000Z
+SUMMARY:50035 - Cuarta práctica integradora
+DTSTART:20240522T130000Z
+DTEND:20240522T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00458
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Cuarta práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240527T130000Z
+SUMMARY:50035 - Product Cloud despliegue de nuestra aplicación
+DTSTART:20240527T130000Z
+DTEND:20240527T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00459
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Product Cloud despliegue de nuestra aplicación
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240529T130000Z
+SUMMARY:50035 - Pasarelas de pago
+DTSTART:20240529T130000Z
+DTEND:20240529T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0045a
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Pasarelas de pago
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20231225T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Nuevas funcionalidades de los lenguajes ECMAScritpt
+DTSTART:20231225T130000Z
+DTEND:20231225T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0042e
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Nuevas funcionalidades de los lenguajes ECMAScritpt
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240110T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Manejo de archivos en JavaScript
+DTSTART:20240110T130000Z
+DTEND:20240110T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00430
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Manejo de archivos en JavaScript
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240117T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Servidores web
+DTSTART:20240117T130000Z
+DTEND:20240117T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00432
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Servidores web
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240124T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Router y Multer
+DTSTART:20240124T130000Z
+DTEND:20240124T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00434
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Router y Multer
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240131T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Websockets
+DTSTART:20240131T130000Z
+DTEND:20240131T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00436
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Websockets
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240219T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Primera práctica integradora
+DTSTART:20240219T130000Z
+DTEND:20240219T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043b
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Primera práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240226T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Mongo Avanzado (Parte II)
+DTSTART:20240226T130000Z
+DTEND:20240226T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043d
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Mongo Avanzado (Parte II)
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240304T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Cookies, Session & Storage II
+DTSTART:20240304T130000Z
+DTEND:20240304T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0043f
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Cookies, Session & Storage II
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240311T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Estrategia de autenticación por terceros + JWT
+DTSTART:20240311T130000Z
+DTEND:20240311T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00441
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Estrategia de autenticación por terceros + JWT
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240320T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Segunda práctica integradora
+DTSTART:20240320T130000Z
+DTEND:20240320T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00444
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Segunda práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240401T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Arquitectura del servidor: Diseño
+DTSTART:20240401T130000Z
+DTEND:20240401T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00447
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Arquitectura del servidor: Diseño
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240410T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Mailing y mensajería
+DTSTART:20240410T130000Z
+DTEND:20240410T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044a
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Mailing y mensajería
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240417T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Optimización
+DTSTART:20240417T130000Z
+DTEND:20240417T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044c
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Optimización
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240424T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Logging y performance
+DTSTART:20240424T130000Z
+DTEND:20240424T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0044e
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Logging y performance
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240506T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Tercera práctica integradora
+DTSTART:20240506T130000Z
+DTEND:20240506T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00451
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Tercera práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240513T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Documentación de API
+DTSTART:20240513T130000Z
+DTEND:20240513T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00453
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Documentación de API
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240520T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Testing Avanzado
+DTSTART:20240520T130000Z
+DTEND:20240520T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00455
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Testing Avanzado
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240529T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Cuarta práctica integradora
+DTSTART:20240529T130000Z
+DTEND:20240529T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a00458
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Cuarta práctica integradora
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50035@coderhouse.com
+RECURRENCE-ID:20240618T130000Z
+SUMMARY:50035 - Expiran las entregas de la clase Pasarelas de pago
+DTSTART:20240618T130000Z
+DTEND:20240618T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-video=639c6d3107b2fb0019a0045a
+DESCRIPTION:Programación Backend en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/50035/programacion-backend?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:50035,PROGRAMACIÓN BACKEND,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:50035 - Expiran las entregas de la clase Pasarelas de pago
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

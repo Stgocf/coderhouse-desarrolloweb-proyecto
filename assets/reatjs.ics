@@ -1,0 +1,445 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:49885
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231018T130000Z
+SUMMARY:49885 - Introducción a React Js
+DTSTART:20231018T130000Z
+DTEND:20231018T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802787
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Introducción a React Js
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231023T130000Z
+SUMMARY:49885 - Instalación y configuración del entorno
+DTSTART:20231023T130000Z
+DTEND:20231023T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802788
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Instalación y configuración del entorno
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231025T130000Z
+SUMMARY:49885 - JSX y transpiling
+DTSTART:20231025T130000Z
+DTEND:20231025T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802789
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - JSX y transpiling
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231030T130000Z
+SUMMARY:49885 - Componentes I
+DTSTART:20231030T130000Z
+DTEND:20231030T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278a
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Componentes I
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231101T130000Z
+SUMMARY:49885 - Componentes II
+DTSTART:20231101T130000Z
+DTEND:20231101T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278b
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Componentes II
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231106T130000Z
+SUMMARY:49885 - Promises, asincronía y MAP
+DTSTART:20231106T130000Z
+DTEND:20231106T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278c
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Promises, asincronía y MAP
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231108T130000Z
+SUMMARY:49885 - Consumiendo API's
+DTSTART:20231108T130000Z
+DTEND:20231108T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278d
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Consumiendo API's
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231113T130000Z
+SUMMARY:49885 - Workshop Hooks, Children y Patrones
+DTSTART:20231113T130000Z
+DTEND:20231113T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278e
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Workshop Hooks, Children y Patrones
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231115T130000Z
+SUMMARY:49885 - Routing y navegación
+DTSTART:20231115T130000Z
+DTEND:20231115T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278f
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Routing y navegación
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231122T130000Z
+SUMMARY:49885 - Eventos
+DTSTART:20231122T130000Z
+DTEND:20231122T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802790
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Eventos
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231127T130000Z
+SUMMARY:49885 - Context
+DTSTART:20231127T130000Z
+DTEND:20231127T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802791
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Context
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231129T130000Z
+SUMMARY:49885 - Técnicas de rendering
+DTSTART:20231129T130000Z
+DTEND:20231129T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802792
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Técnicas de rendering
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231204T130000Z
+SUMMARY:49885 - Firebase I
+DTSTART:20231204T130000Z
+DTEND:20231204T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802793
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Firebase I
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231206T130000Z
+SUMMARY:49885 - Firebase II
+DTSTART:20231206T130000Z
+DTEND:20231206T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802794
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Firebase II
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231211T130000Z
+SUMMARY:49885 - Workshop final
+DTSTART:20231211T130000Z
+DTEND:20231211T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802795
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Workshop final
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231106T130000Z
+SUMMARY:49885 - Expiran las entregas de la clase Componentes I
+DTSTART:20231106T130000Z
+DTEND:20231106T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278a
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Expiran las entregas de la clase Componentes I
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231122T130000Z
+SUMMARY:49885 - Expiran las entregas de la clase Routing y navegación
+DTSTART:20231122T130000Z
+DTEND:20231122T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b643001980278f
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Expiran las entregas de la clase Routing y navegación
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231221T130000Z
+SUMMARY:49885 - Expiran las entregas de la clase Workshop final
+DTSTART:20231221T130000Z
+DTEND:20231221T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=6405f85589b6430019802795
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - Expiran las entregas de la clase Workshop final
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231025T130000Z
+SUMMARY:49885 - After undefined
+DTSTART:20231025T130000Z
+DTEND:20231025T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=647e37b89109c200193772ef
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - After undefined
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231108T130000Z
+SUMMARY:49885 - After undefined
+DTSTART:20231108T130000Z
+DTEND:20231108T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=647e37b89109c200193772f0
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - After undefined
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231122T130000Z
+SUMMARY:49885 - After undefined
+DTSTART:20231122T130000Z
+DTEND:20231122T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=647e37b89109c200193772f1
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - After undefined
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49885@coderhouse.com
+RECURRENCE-ID:20231206T130000Z
+SUMMARY:49885 - After undefined
+DTSTART:20231206T130000Z
+DTEND:20231206T150000Z
+LOCATION:https://plataforma.coderhouse.com/cursos/49885/reactjs?open-video=647e37b89109c200193772f2
+DESCRIPTION:React Js en Coderhouse. Recuerda que este evento no se actualiza en tu gestor de calendario, puedes consultar el calendario actualizado en https://plataforma.coderhouse.com/cursos/49885/reactjs?open-calendar=1.
+STATUS:CONFIRMED
+FBTYPE:BUSY
+CLASS:PRIVATE
+CATEGORIES:49885,REACT JS,CODERHOUSE
+COLOR:yellow
+SEQUENCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+DESCRIPTION:49885 - After undefined
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,7 +1,7 @@
 /* Variables y mixins*/
-@import "./layout/vars.scss";
+@import "./layout/_vars.scss";
 /* reset y tipografias */ 
-@import "./layout/resets.scss";
+@import "./layout/_resets.scss";
 /* codigo pincipal */
 @import "./layout/header";
 @import "./layout/footer";
